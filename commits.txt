@@ -1,3 +1,9 @@
+commit 15d91c00d8923828d5cdb3565a79c66a234f054a
+Author: PacoMedinaMz <pacomedina.05.12.99@outlook.com>
+Date:   Sun Dec 27 12:52:30 2020 -0600
+
+    Fin de la primera sesion
+
 commit 65b50fa46dc2236c0917786fafa4c0620c7c8a6c
 Author: PacoMedinaMz <pacomedina.05.12.99@outlook.com>
 Date:   Sun Dec 27 12:27:07 2020 -0600
